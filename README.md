@@ -1,4 +1,4 @@
-# Track And Crop
+# Track_And_Crop
 An imageJ macro to track cells manually and generate cropped-and-aligned images.  
 
 ## DEMO
