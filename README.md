@@ -3,7 +3,7 @@ An imageJ macro to track cells manually and generate cropped-and-aligned images.
 
 ## DEMO
 <div align="center">
-<img src="https://user-images.githubusercontent.com/40162543/46203583-3a25ea80-c355-11e8-8b0d-37e3e36d5a5b.gif" width="70%">
+<img src="https://user-images.githubusercontent.com/40162543/101269983-36f2ca00-3729-11eb-8181-dc63dda8acc7.gif" width="70%">
 </div>
 
 ## Installation
